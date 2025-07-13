@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "V2",
-    "backup_version": 2,
-    "author": "deep",
-    "changelog": "-sharing genai expander\n-android viewer disable follow button\n-sps toolbar redesign\n-group stories \n-mmc ux autofill background\n-New rosalia font\n-New animation when you like someone music note\n-Saved in profile\n-New color of follow icon\n-Add photos from Google photos/n-Redesign of call icon\n-Button in Add a location to your storys\n-Auto scroll\n-Reels watch and comment see at same time\n-Note: These features have been added to the backup file and old features are also enabled"
-    "name": "deep Backup",
+    "version_name": "V1",
+    "backup_version": 1,
+    "author": "Ronnie",
+    "changelog": "-stories ai edit Enabled\n-notes teen led moments Enabled\n-stories android video trimmer Enabled\n-profile overflow menu redesign Enabled\n-grid peek behavior redesign Enabled\n-profile highlights to grid Changed\n-Text inventory expansion h1 2025 Enabled\n-saved in profile Enabled(now working)\n-carousel edit after sharing Enabled\n-Story android close friends pill parity Enabled\n-igd android media viewer replies Changed\n-iv video scrubber Changed",
+    "name": "Ronnie Backup",
     "last_updated": "13.07.2025",
-    "description": "Modernized, Clean!",
+    "description": "Clean, Feature Reach!",
     "optional": {
       "show_author_socials": false
     },
