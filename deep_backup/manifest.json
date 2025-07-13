@@ -7,7 +7,7 @@
     "changelog": "-sharing genai expander\n-android viewer disable follow button\n-sps toolbar redesign\n-group stories \n-mmc ux autofill background\n-New rosalia font\n-New animation when you like someone music note\n-Saved in profile\n-New color of follow icon\n-Add photos from Google photos/n-Redesign of call icon\n-Button in Add a location to your storys\n-Auto scroll\n-Reels watch and comment see at same time\n-Note: These features have been added to the backup file and old features are also enabled"
     "name": "Deep Backup",
     "last_updated": "13.07.2025",
-    "description": "Bug Fixed!",
+    "description": "Bug Fixed!, New Features",
     "optional": {
       "show_author_socials": false
     },
