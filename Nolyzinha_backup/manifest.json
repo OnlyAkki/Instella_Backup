@@ -1,1 +1,18 @@
-
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "V2",
+    "backup_version": 2,
+    "author": "Nolyzinha",
+    "changelog": "Coming soon",
+    "name": "Nolyzinha Backup",
+    "last_updated": "13.07.2025",
+    "description": "Modernized, functional!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
