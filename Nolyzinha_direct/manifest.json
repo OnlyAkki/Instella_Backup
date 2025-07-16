@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "V1",
+    "backup_version": 1,
+    "author": "Nolyzinha",
+    "changelog": "Redesign layout\nRemove reels tab\nImproved photos quality\nfixed random crashes!",
+    "name": "Nolyzinha direct",
+    "last_updated": "16.07.2025",
+    "description": "Clean Ui, distraction free!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
