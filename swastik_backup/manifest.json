@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "V4",
+    "backup_version": 4,
+    "author": "Swastik",
+    "changelog": "#swasttk_backup\n\n➕External Images On Story Cropping (enable).\n➕Thicker Stories Bar  (enable).\n➕ Minor Improvements In Stories.\n➕ Bugs Fixed.\n➕Reels Autoscroll (enable).\n➖Filled Tab Icons (disable).",
+    "name": "swastik Backup",
+    "last_updated": "18.07.2025",
+    "description": "maximum quality and Stable",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
